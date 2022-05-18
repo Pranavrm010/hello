@@ -1,4 +1,0 @@
-Name: Mahajan Ritu Yuvaraj
-College: International Institute of information Technoogy
-Department: Information Technology
-Specialization: Data Science 
